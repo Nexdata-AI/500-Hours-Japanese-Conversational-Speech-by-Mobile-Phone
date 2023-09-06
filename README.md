@@ -4,7 +4,8 @@
 ## Description
 About 1000 speakers participated in the recording, and conducted face-to-face communication in a natural way. They had free discussion on a number of given topics, with a wide range of fields; the voice was natural and fluent, in line with the actual dialogue scene. Text is transferred manually, with high accuracy.
 
-For more details, please refer to the link: https://bit.ly/3C6v3n9
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1166?source=Github
+
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel;
